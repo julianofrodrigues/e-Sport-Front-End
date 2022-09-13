@@ -3,6 +3,8 @@ e-Sport project Front-End
 
 ## ✔️ Techniques and technologies used
 
+- ``HTML``
+- ``CSS``
 - ``JavaScript``
 - ``TypeScript``
 - ``React``

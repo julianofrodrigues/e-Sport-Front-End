@@ -12,5 +12,6 @@ e-Sport project Front-End
 - ``Tailwind``
 - ``Phosphor``
 - ``Radix-Ui``
+- ``Axios``
 - ``Google Fonts``
 

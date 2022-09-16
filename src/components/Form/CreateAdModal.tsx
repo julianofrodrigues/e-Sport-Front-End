@@ -17,8 +17,6 @@ export function CreateAdModal(){
     const [weekDays, setWeekDays] = useState<string[]>([])
     const [useVoiceChannel, setUseVoiceChannel] = useState(false)
 
-    
-
     useEffect(() => {
         axios('http://localhost:3333/games').then(response => {setGames(response.data)})
     }, []);
@@ -28,10 +26,7 @@ export function CreateAdModal(){
 
         const formData = new FormData(event.target as HTMLFormElement);
         const data = Object.fromEntries(formData);
-        console.log(data);
-        console.log(weekDays.map(Number));
-        console.log(useVoiceChannel);
-        console.log(data.yearsPlaying)
+       
         try{
            await axios.post(`http://localhost:3333/games/${data.game}/ads`, {
                 name: data.name,

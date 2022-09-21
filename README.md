@@ -8,7 +8,7 @@ The mobile project is in this other repository: https://github.com/julianofrodri
 ## Application images below 👾
 </p>
 <p align="center">
-<img src="https://i.imgur.com/oQ4kqal.png"/>
+<img src="https://i.imgur.com/oQ4kqal.png"/><br>
 <img src="https://i.imgur.com/oyWuxO5.png"/>
 </p>
 

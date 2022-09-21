@@ -9,6 +9,8 @@ The mobile project is in this other repository: https://github.com/julianofrodri
 </p>
 <p align="center">
 <img src="https://i.imgur.com/oQ4kqal.png"/><br>
+</p>
+<p align="center">
 <img src="https://i.imgur.com/oyWuxO5.png"/>
 </p>
 

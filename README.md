@@ -28,11 +28,11 @@ $ npm install
 ```
 -Start the Project
 ```bash
-$ yarn start
+$ yarn dev
 ```
 Or
 ```bash
-$ npm start
+$ npm dev
 ```
 
 ## ✔️ Techniques and technologies used
